@@ -1,0 +1,5 @@
+Nama : Ahmad Miftahu Rizki
+Kelas : D3 TI 1A
+Minat : Computer Networking
+Membuat Sebuah Alat
+Saran : Menciptakan sebuah alat yang terprogram agar alat tersebut bisa diperbesar dan diperkecil dengan sendirinya
