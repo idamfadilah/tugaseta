@@ -1,0 +1,12 @@
+***************************************************** T U G A S  T E A *****************************************************
+
+Nama 			: Muhammad Raihan Nur Azmii
+Kelas 			: D3 Teknik Informatika 1A
+Minat 			: Minat dalam persoalan yang berkaitan dengan logika dan sesuatu yang bermisteri  
+Inovasi 		: - Aplikasi yang ingin di buat adalah aplikasi mobile yang saya beri nama predict hair dimana 
+			    ketika kita ingin bercukur atau ingin mencari model rambut yang cocok tinggal memasukan poto kita 
+			    dan bisa menginputkan rambut dan bsa dilihat secara 3 dimensi (Bisa dilihat dari segala arah)
+			  - Alat yang ingin di buat adalah Smart Traffic Light, yaitu di lampu lalu lintas itu bisa 
+			    memperkirakan mana yang akan nayal lampu hijau duluan misalkan di sebrang jalan mobil hanya dikit 
+			    countdown taffic light kita bisa erkurang jadi bisa effesien dalam waktu
+Saran untuk Dev Team  	: kedepannya di dev menambahkan bagian baru selain tentang Multimedia, JAringan dan Program adanya bagian elektro informatika :)
